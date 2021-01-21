@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rgVLepEz+WuCLueLfjxwtm1K47FwSOqYMMAm3/elBj0Hc1i5gNz+fO5AkbMkQVhkQl4bgznkwHYu0MISWU9W0A==",
+  "dgSpecHash": "NleXdlDOq31kK9bsvXpZnGi5KNvOxMJry5YmowL8zgaQLMZEDjAKvhD9cH8Fer7tLNGLVEMxXQfKZvyl9NBHSQ==",
   "success": true,
   "projectFilePath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dthumma\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
