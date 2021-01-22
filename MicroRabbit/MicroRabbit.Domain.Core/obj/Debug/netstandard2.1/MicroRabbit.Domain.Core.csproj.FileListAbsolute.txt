@@ -1,0 +1,8 @@
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.deps.json
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb
