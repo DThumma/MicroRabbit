@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {}
+    "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+    "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-        "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "projectName": "MicroRabbit.Infra.IoC",
+        "projectPath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\dthumma\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\obj\\",
+        "outputPath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,9 +47,9 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
-            "MediatR": {
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[5.0.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

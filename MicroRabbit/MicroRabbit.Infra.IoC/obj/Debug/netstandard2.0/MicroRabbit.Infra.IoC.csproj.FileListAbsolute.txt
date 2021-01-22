@@ -1,0 +1,9 @@
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbit.Infra.IoC.deps.json
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbit.Infra.IoC.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbit.Infra.IoC.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NleXdlDOq31kK9bsvXpZnGi5KNvOxMJry5YmowL8zgaQLMZEDjAKvhD9cH8Fer7tLNGLVEMxXQfKZvyl9NBHSQ==",
+  "dgSpecHash": "Bmh4BKWQnldnfzY5bREIxTlfO9rXadPFsDAvO6PevYQuB1bd/Mjm1qns+9XSb02NeDv2geFakYJ9LtJq2XWizQ==",
   "success": true,
   "projectFilePath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
