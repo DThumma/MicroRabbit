@@ -6,3 +6,4 @@ C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netstandard2.1\MicroRabbit.Domain.Core.csprojAssemblyReference.cache

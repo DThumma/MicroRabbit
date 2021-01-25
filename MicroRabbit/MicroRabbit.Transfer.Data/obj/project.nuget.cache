@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5029WlDIaeFjZMQZjH1/JkJtv1uT+H3JBUbCzMrUbmVZhpVXXL/cILGWUFbUbr47E2L06HBG9IXJuIExYLGxXw==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbit.Transfer.Application.deps.json
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbit.Transfer.Application.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbit.Transfer.Application.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbit.Transfer.Application.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbit.Transfer.Application.pdb
