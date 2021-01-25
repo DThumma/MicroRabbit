@@ -7,3 +7,6 @@ C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netstandar
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netstandard2.1\MicroRabbit.Banking.Domain.dll
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netstandard2.1\MicroRabbit.Banking.Domain.pdb
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netstandard2.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netstandard2.1\MicroRabbit.Banking.Domain.csproj.CopyComplete

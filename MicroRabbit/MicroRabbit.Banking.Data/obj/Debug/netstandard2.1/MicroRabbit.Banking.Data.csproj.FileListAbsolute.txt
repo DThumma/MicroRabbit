@@ -10,3 +10,5 @@ C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netstandard2
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netstandard2.1\MicroRabbit.Banking.Data.csproj.CopyComplete
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netstandard2.1\MicroRabbit.Banking.Data.dll
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netstandard2.1\MicroRabbit.Banking.Data.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb
