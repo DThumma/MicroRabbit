@@ -85,3 +85,9 @@ C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
 C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb

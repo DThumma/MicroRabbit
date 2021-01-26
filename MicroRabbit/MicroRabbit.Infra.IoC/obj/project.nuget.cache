@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6+7oiq+JMe9daKld1NN1SaLJayG8Lk2OwUDgbaLveSYMH0jEQi3mIHroZffYndkIFHBaCaiVTPwuAbqa0652IQ==",
+  "dgSpecHash": "UuRHSfL6V2JxNCsYB8aFtqlByry3NU3Qxl4VwMUXiWZuX2F4sG59xw7RieXSA2In/2wTDgXKiq/AE7sm7IvbYQ==",
   "success": true,
   "projectFilePath": "C:\\Practice\\RabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [

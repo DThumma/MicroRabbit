@@ -1,0 +1,14 @@
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Transfer.Data.deps.json
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Transfer.Data.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Transfer.Data.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Transfer.Domain.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Transfer.Domain.pdb
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netstandard2.1\MicroRabbit.Transfer.Data.csproj.CopyComplete
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.dll
+C:\Practice\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netstandard2.1\MicroRabbit.Domain.Core.pdb

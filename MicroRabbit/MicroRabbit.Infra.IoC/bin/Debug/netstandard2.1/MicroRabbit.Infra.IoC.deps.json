@@ -14,6 +14,8 @@
           "MicroRabbit.Banking.Domain": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.1"
         },
         "runtime": {
@@ -1544,11 +1546,39 @@
         "dependencies": {
           "MediatR": "9.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "6.2.1"
         },
         "runtime": {
           "MicroRabbit.Infra.Bus.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbit.Transfer.Application.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Data/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2"
+        },
+        "runtime": {
+          "MicroRabbit.Transfer.Data.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbit.Transfer.Domain.dll": {}
         }
       }
     }
@@ -2469,6 +2499,21 @@
       "sha512": ""
     },
     "MicroRabbit.Infra.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Transfer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
